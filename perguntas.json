@@ -1,0 +1,106 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual é a sua idade?",
+      "answer_type": "number"
+    },
+    {
+      "id": 2,
+      "question": "Qual é o seu gênero?",
+      "answer_type": "multiple_choice",
+      "options": ["Masculino", "Feminino", "Não binário", "Outro", "Prefiro não responder"]
+    },
+    {
+      "id": 3,
+      "question": "Qual é o seu nível de escolaridade?",
+      "answer_type": "multiple_choice",
+      "options": ["Ensino Fundamental", "Ensino Médio", "Ensino Superior", "Pós-graduação", "Outro"]
+    },
+    {
+      "id": 4,
+      "question": "Qual é a sua área de atuação profissional?",
+      "answer_type": "text"
+    },
+    {
+      "id": 5,
+      "question": "Você possui algum diagnóstico neurodivergente (ex: autismo, TDAH, dislexia)?",
+      "answer_type": "text"
+    },
+    {
+      "id": 6,
+      "question": "Você possui algum diagnóstico de transtorno psicológico (ex: depressão, ansiedade, transtorno bipolar)?",
+      "answer_type": "text"
+    },
+    {
+      "id": 7,
+      "question": "Você está atualmente empregado?",
+      "answer_type": "text"
+    },
+    {
+      "id": 8,
+      "question": "Se sim, qual é a sua posição atual e há quanto tempo você está nessa posição?",
+      "answer_type": "text"
+    },
+    {
+      "id": 9,
+      "question": "Você se sente confortável em revelar seu diagnóstico no local de trabalho? Por quê?",
+      "answer_type": "text"
+    },
+    {
+      "id": 10,
+      "question": "Como você descreveria a cultura da sua empresa em relação à inclusão de pessoas neurodivergentes e com transtornos psicológicos?",
+      "answer_type": "text"
+    },
+    {
+      "id": 11,
+      "question": "Você já enfrentou discriminação ou preconceito no trabalho devido ao seu diagnóstico?",
+      "answer_type": "yes_no"
+    },
+    {
+      "id": 12,
+      "question": "Quais adaptações ou acomodações você considera essenciais para desempenhar bem seu trabalho?",
+      "answer_type": "text"
+    },
+    {
+      "id": 13,
+      "question": "Quais são os maiores desafios que você enfrenta no ambiente de trabalho devido ao seu diagnóstico?",
+      "answer_type": "text"
+    },
+    {
+      "id": 14,
+      "question": "Você sente que sua condição afeta sua produtividade ou eficiência no trabalho? Se sim, de que maneira?",
+      "answer_type": "text"
+    },
+    {
+      "id": 15,
+      "question": "Quais estratégias ou ferramentas você utiliza para gerenciar os desafios no trabalho?",
+      "answer_type": "text"
+    },
+    {
+      "id": 16,
+      "question": "Você já participou de algum programa de treinamento ou desenvolvimento profissional específico para neurodivergentes ou pessoas com transtornos psicológicos?",
+      "answer_type": "yes_no"
+    },
+    {
+      "id": 17,
+      "question": "Você tem sugestões de como as empresas podem melhorar a inclusão e o suporte para pessoas neurodivergentes e com transtornos psicológicos?",
+      "answer_type": "text"
+    },
+    {
+      "id": 18,
+      "question": "Quais são suas expectativas e esperanças para o futuro em relação à sua carreira e à inclusão no ambiente de trabalho?",
+      "answer_type": "text"
+    },
+    {
+      "id": 19,
+      "question": "Há algo mais que você gostaria de compartilhar sobre suas experiências no mercado de trabalho como uma pessoa neurodivergente ou com transtornos psicológicos?",
+      "answer_type": "text"
+    },
+    {
+      "id": 20,
+      "question": "Você estaria disposto a participar de uma entrevista mais aprofundada para compartilhar suas experiências? Se sim, por favor, forneça suas informações de contato.",
+      "answer_type": "text"
+    }
+  ]
+}
